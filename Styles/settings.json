@@ -1,0 +1,11 @@
+{
+    "name": "Ominous Reepo",
+    "description": "Why join the Navy, when you can be a Pirate!",
+    "tint": "#1600E0",
+    "cname": "ipwnosx.github.io/Ominous-Reepo",
+    "maintainer": {
+        "name": "TJ Rizzo",
+        "email": "rizzo@gdsbusiness.com"
+    },
+    "automatic_git": "true"
+}
