@@ -1,11 +1,11 @@
 {
-    "name": "Ominous Reepo",
-    "description": "Why join the Navy, when you can be a Pirate!",
-    "tint": "#1600E0",
-    "cname": "ipwnosx.github.io/Ominous-Reepo",
+    "name": "Elequence",
+    "description": "GG",
+    "tint": "#FF0064",
+    "cname": "beta.3xodus.tk",
     "maintainer": {
         "name": "TJ Rizzo",
         "email": "rizzo@gdsbusiness.com"
     },
-    "automatic_git": "true"
+    "automatic_git": "false"
 }
