@@ -2,10 +2,10 @@
     "name": "Elequence",
     "description": "GG",
     "tint": "#FF0064",
-    "cname": "beta.3xodus.tk",
+    "cname": "github.com/ipwnosx/elequence",
     "maintainer": {
-        "name": "TJ Rizzo",
+        "name": "Rizzo",
         "email": "rizzo@gdsbusiness.com"
     },
-    "automatic_git": "false"
+    "automatic_git": "yes"
 }
